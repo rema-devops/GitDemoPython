@@ -1,0 +1,118 @@
+2019-12-24 15:22:20,851 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:22:20,872 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:22:20,894 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:22:20,917 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:22:21,280 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:22:31,758 :INFO : utilities.BaseClass : Text received from application is:
+Success! Thank you! Your order will be delivered in next few weeks :-).ï¿½
+2019-12-24 15:28:21,538 :INFO : utilities.BaseClass : first name is Randher
+2019-12-24 15:28:21,708 :INFO : utilities.BaseClass : email is xyz@gmail.com
+2019-12-24 15:28:21,844 :INFO : utilities.BaseClass : password is xyz@234
+2019-12-24 15:28:22,053 :INFO : utilities.BaseClass : gender is Male
+2019-12-24 15:28:26,755 :INFO : utilities.BaseClass : first name is Ritika
+2019-12-24 15:28:26,755 :INFO : utilities.BaseClass : first name is Ritika
+2019-12-24 15:28:26,870 :INFO : utilities.BaseClass : email is abc@gmail.com
+2019-12-24 15:28:26,870 :INFO : utilities.BaseClass : email is abc@gmail.com
+2019-12-24 15:28:26,986 :INFO : utilities.BaseClass : password is abc@234
+2019-12-24 15:28:26,986 :INFO : utilities.BaseClass : password is abc@234
+2019-12-24 15:28:27,174 :INFO : utilities.BaseClass : gender is Female
+2019-12-24 15:28:27,174 :INFO : utilities.BaseClass : gender is Female
+2019-12-24 15:29:01,900 :INFO : utilities.BaseClass : first name is Randher
+2019-12-24 15:29:02,050 :INFO : utilities.BaseClass : email is xyz@gmail.com
+2019-12-24 15:29:02,170 :INFO : utilities.BaseClass : password is xyz@234
+2019-12-24 15:29:02,383 :INFO : utilities.BaseClass : gender is Male
+2019-12-24 15:29:07,064 :INFO : utilities.BaseClass : first name is Ritika
+2019-12-24 15:29:07,064 :INFO : utilities.BaseClass : first name is Ritika
+2019-12-24 15:29:07,169 :INFO : utilities.BaseClass : email is abc@gmail.com
+2019-12-24 15:29:07,169 :INFO : utilities.BaseClass : email is abc@gmail.com
+2019-12-24 15:29:07,288 :INFO : utilities.BaseClass : password is abc@234
+2019-12-24 15:29:07,288 :INFO : utilities.BaseClass : password is abc@234
+2019-12-24 15:29:07,458 :INFO : utilities.BaseClass : gender is Female
+2019-12-24 15:29:07,458 :INFO : utilities.BaseClass : gender is Female
+2019-12-24 15:29:34,353 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:29:34,353 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:29:34,353 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:29:34,371 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:29:34,371 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:29:34,371 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:29:34,374 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:29:34,374 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:29:34,374 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:29:34,390 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:29:34,390 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:29:34,390 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:29:34,822 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:29:34,822 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:29:34,822 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:29:45,324 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-12-24 15:29:45,324 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-12-24 15:29:45,324 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-12-24 15:33:58,735 :INFO : utilities.BaseClass : first name is Randher
+2019-12-24 15:33:58,871 :INFO : utilities.BaseClass : email is xyz@gmail.com
+2019-12-24 15:33:58,999 :INFO : utilities.BaseClass : password is xyz@234
+2019-12-24 15:33:59,203 :INFO : utilities.BaseClass : gender is Male
+2019-12-24 15:34:03,874 :INFO : utilities.BaseClass : first name is Ritika
+2019-12-24 15:34:03,874 :INFO : utilities.BaseClass : first name is Ritika
+2019-12-24 15:34:03,970 :INFO : utilities.BaseClass : email is abc@gmail.com
+2019-12-24 15:34:03,970 :INFO : utilities.BaseClass : email is abc@gmail.com
+2019-12-24 15:34:04,107 :INFO : utilities.BaseClass : password is abc@234
+2019-12-24 15:34:04,107 :INFO : utilities.BaseClass : password is abc@234
+2019-12-24 15:34:04,277 :INFO : utilities.BaseClass : gender is Female
+2019-12-24 15:34:04,277 :INFO : utilities.BaseClass : gender is Female
+2019-12-24 15:34:31,138 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:34:31,138 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:34:31,138 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:34:31,156 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:34:31,156 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:34:31,156 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:34:31,159 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:34:31,159 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:34:31,159 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:34:31,174 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:34:31,174 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:34:31,174 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:34:31,550 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:34:31,550 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:34:31,550 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:34:42,006 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-12-24 15:34:42,006 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-12-24 15:34:42,006 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-12-24 15:59:21,680 :INFO : utilities.BaseClass : first name is Randher
+2019-12-24 15:59:21,819 :INFO : utilities.BaseClass : email is xyz@gmail.com
+2019-12-24 15:59:21,935 :INFO : utilities.BaseClass : password is xyz@234
+2019-12-24 15:59:22,127 :INFO : utilities.BaseClass : gender is Male
+2019-12-24 15:59:27,138 :INFO : utilities.BaseClass : first name is Ritika
+2019-12-24 15:59:27,138 :INFO : utilities.BaseClass : first name is Ritika
+2019-12-24 15:59:27,247 :INFO : utilities.BaseClass : email is abc@gmail.com
+2019-12-24 15:59:27,247 :INFO : utilities.BaseClass : email is abc@gmail.com
+2019-12-24 15:59:27,387 :INFO : utilities.BaseClass : password is abc@234
+2019-12-24 15:59:27,387 :INFO : utilities.BaseClass : password is abc@234
+2019-12-24 15:59:27,584 :INFO : utilities.BaseClass : gender is Female
+2019-12-24 15:59:27,584 :INFO : utilities.BaseClass : gender is Female
+2019-12-24 15:59:54,781 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:59:54,781 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:59:54,781 :INFO : utilities.BaseClass : iphone X
+2019-12-24 15:59:54,805 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:59:54,805 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:59:54,805 :INFO : utilities.BaseClass : Samsung Note 8
+2019-12-24 15:59:54,848 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:59:54,848 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:59:54,848 :INFO : utilities.BaseClass : Nokia Edge
+2019-12-24 15:59:54,874 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:59:54,874 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:59:54,874 :INFO : utilities.BaseClass : Blackberry
+2019-12-24 15:59:55,440 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:59:55,440 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 15:59:55,440 :INFO : utilities.BaseClass : Entering country name as Ind
+2019-12-24 16:00:05,973 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-12-24 16:00:05,973 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-12-24 16:00:05,973 :INFO : utilities.BaseClass : Text received from application is:  ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
